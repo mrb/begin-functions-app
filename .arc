@@ -1,10 +1,8 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-test-app
+swim-v2g
 
 @html
 get /
+
+@json
+get /songs
